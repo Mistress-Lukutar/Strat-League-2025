@@ -1,0 +1,5 @@
+examples/
+plots/
+*.ini
+*.bin
+*pyc
